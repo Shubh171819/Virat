@@ -1,0 +1,48 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color:brown;
+    line-height: 30px;
+    background-color:antiquewhite;
+    font-size: larger;
+    font-weight: 500;
+}
+
+
+.purple-color{
+    color:violet;
+}
+
+.content{
+    width: 50%;
+    float:left;
+    
+}
+
+.btn{
+    color: white;
+    background-color:darkmagenta;
+    padding: 13px 42px;
+    border-radius: 20px;
+    text-decoration:none;
+    cursor: grab;
+}
+.container{
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    display: inline-block;
+    
+}
+
+.experience{
+    padding: 10px;
+    border-left: 1px solid rgba(137,130,247,.2);
+}
+h1{
+    color:darkblue;
+    font-weight: 1000;
+}
+h3{
+    color:black;
+}
+
